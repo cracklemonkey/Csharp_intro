@@ -16,7 +16,11 @@ public class ShoeStore : Store{
     Items.Add("Adidas");
     Items.Add("Puma");
 
+    Revenue = 100000;
+
     }
 
-    public List<string> Items = new List<string>();
+    
+
+    
 }

@@ -10,6 +10,8 @@ public abstract class Store{
     public int TotalEmployees;
 
     public List<string> Items = new List<string>();
+
+    public int Revenue;
     
 
   
